@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+}
+#container {
+  text-align: center;
+  padding: 10px;
+}
+#pump {
+  width: 150px;
+  height: 300px;
+}
+#pump:hover {
+  cursor: pointer;
+}
+
+#balloon {
+  min-width: 50px;
+  min-height: 100px;
+}
+
+#pinContainer {
+  text-align: center;
+}
+
+#pin {
+  width: 50px;
+  height: 50px;
+}
+#pin:hover {
+  cursor: pointer;
+}
